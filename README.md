@@ -27,7 +27,7 @@ cesbecer
 [1][args_kwargs](https://nbviewer.jupyter.org/github/cesbecer/python_notes/blob/b0146bb66f4dcfd7eae0c570490541206c4c7d4b/args_kwargs.ipynb)
 
 <ol>
-<li>[args_kwargs][https://nbviewer.jupyter.org/github/cesbecer/python_notes/blob/b0146bb66f4dcfd7eae0c570490541206c4c7d4b/args_kwargs.ipynb]</li>
+<li>args_kwargs[args_kwargs][https://nbviewer.jupyter.org/github/cesbecer/python_notes/blob/b0146bb66f4dcfd7eae0c570490541206c4c7d4b/args_kwargs.ipynb]</li>
 <li>[input](https://nbviewer.jupyter.org/github/cesbecer/python_notes/blob/b0146bb66f4dcfd7eae0c570490541206c4c7d4b/input.ipynb)</li>
 <li>[strings](https://nbviewer.jupyter.org/github/cesbecer/python_notes/blob/b0146bb66f4dcfd7eae0c570490541206c4c7d4b/strings.ipynb)</li>
 <li>[lists](https://nbviewer.jupyter.org/github/cesbecer/python_notes/blob/b0146bb66f4dcfd7eae0c570490541206c4c7d4b/lists.ipynb)</li>
