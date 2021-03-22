@@ -8,7 +8,7 @@ cesbecer
 > The next list includes a link to view each topic on Jupyter Notebook Viewer
 
 
-[args_kwargs][https://nbviewer.jupyter.org/github/cesbecer/python_notes/blob/b0146bb66f4dcfd7eae0c570490541206c4c7d4b/args_kwargs.ipynb]
+[args_kwargs](https://nbviewer.jupyter.org/github/cesbecer/python_notes/blob/b0146bb66f4dcfd7eae0c570490541206c4c7d4b/args_kwargs.ipynb)
 
 [input](https://nbviewer.jupyter.org/github/cesbecer/python_notes/blob/b0146bb66f4dcfd7eae0c570490541206c4c7d4b/input.ipynb)
 
